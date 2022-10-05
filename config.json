@@ -1,5 +1,5 @@
 {
-  "name": "John Smith",
+  "name": "JBoldani Chan",
   "links": [
     {
       "name": "Website",
@@ -8,17 +8,17 @@
     },
     {
       "name": "Email",
-      "link": "mailto:hello@gdsc.nz",
+      "link": "boldani.chan@gmail.com",
       "icon": "fa-regular fa-envelope"
     },
     {
       "name": "GitHub",
-      "link": "https://github.com",
+      "link": "https://github.com/Danibooiiiii",
       "icon": "fa-brands fa-github"
     },
     {
       "name": "LinkedIn",
-      "link": "https://linkedin.com",
+      "link": " www.linkedin.com/in/boldani-chan",
       "icon": "fa-brands fa-linkedin"
     }
   ]
